@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Maj-a
+- 👋 Hi, my name is Maja Sobolak
 - 👀 I’m interested in People Analytics & People Science.
 - 🌱 I’m currently learning Unsupervised Multivariate Methods(Data Science).
 - 💞️ I’m looking to collaborate on any data science/analytics project especially HR related.
