@@ -4,8 +4,10 @@
 - 💞️ I’m looking to collaborate on any data science/analytics project especially HR related.
 - 📫 [Let's connect on LinkedIn](https://www.linkedin.com/in/majasobolak)
 - ⚡ Fun fact:  I can do a head stand 🧘‍♀️😉
+  
 -  ℹ️  More about myself: I am a Data Science student with a background in business and HR. My goal is to integrate analytics and data science with business,
      particularly focusing on the people side of the business. I believe that understanding your workforce is just as crucial as understanding your customers. Nothing drives business performance better than a culture of engaged employees.
+   
 - 💡 Some of the thought leaders I follow and their views on analytics and people in organizations:
    -  💭 Keith McNulty:
 “Organizations that leverage people analytics and foster high levels of employee engagement see a direct correlation with superior business results. Engagement drives productivity, and productivity drives performance.”
