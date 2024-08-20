@@ -22,7 +22,7 @@
 
       - 💭 **Brett Minchington:** “The ability to attract, engage, and retain top talent is the single most important competitive advantage in today’s economy. People analytics provides the insights needed to enhance employee engagement and drive organizational success.”
 
- - 📚 **See Some of My Recent Work and Ongoing Projects** ⤵️
+ - 📚 **To Check Out Some of My Recent Work and Ongoing Projects Scroll Down** ⤵️
 I am continuously updating this with new projects and insights. Upcoming projects include work on multilinear regression, logistic regression, and time series analysis, among others.
 
  
