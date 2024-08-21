@@ -25,5 +25,6 @@
  - 📚 **To Check Out Some of My Recent Work and Ongoing Projects Scroll Down** ⤵️
 I am continuously updating this with new projects and insights. Upcoming projects include work on multilinear regression, logistic regression, and time series analysis, among others.
 
+   - Repository is like a folder with files, where project's files, including code, documentation, and other resources, are stored. So feel free to clik and check any of the below ⤵️ and let me know if you have any questions or comments.
  
 --->
