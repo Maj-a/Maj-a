@@ -2,7 +2,7 @@
 
  - 👀 I’m passionate about People Analytics & People Science.
 
- - 🌱 Currently, I’m learning Unsupervised Multivariate Methods in Data Science.
+ - 🌱 Currently, I’m learning Unsupervised Multivariate Methods (exam date is fast approaching!).
 
  - 💞️ I’m eager to collaborate on data science and analytics projects, especially those related to HR.
 
