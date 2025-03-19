@@ -1,16 +1,17 @@
- - 👋 Hi, I'm Maja.
+ - 👋 **Hi, I'm Maja.**
+ - 👀 **I’m passionate about:** People Analytics & People Science.
+ - 🌱 **Currently learning:** SQL (intermediate level) and exploring job evaluation methods.
+ - 🎓 **Education:**
+   * Postgraduate Diploma in Data Science
+   * Certified in HR Metrics & Dashboarding
+   * Honours Degree in Human Resource Management
+   * CIPD
+ - 💡 **Looking to collaborate on:** Data science and analytics projects, especially in HR
+ - 📌 **Open to opportunities:** Actively seeking an HR Analytics or HR Data-related role
+ - 📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/majasobolak)
+ - ⚡ **Fun fact:** I can do a headstand 🧘‍♀️😉
 
- - 👀 I’m passionate about People Analytics & People Science.
-
- - 🌱 Currently, I’m learning Unsupervised Multivariate Methods (exam date is fast approaching!).
-
- - 💞️ I’m eager to collaborate on data science and analytics projects, especially those related to HR.
-
- - 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/majasobolak)
-
- - ⚡ Fun fact: I can do a headstand 🧘‍♀️😉
-
- - ℹ️ **About Me:** I am a Data Science student with a background in business and HR. My goal is to integrate analytics and data science with business, with a particular focus on the people side. I believe understanding your workforce is as crucial as understanding your customers. Nothing drives business performance better than a culture of engaged employees.
+ - ℹ️ **About Me:** I am a CIPD-qualified HR professional with a background in business and HR, and a strong interest in analytics and people-related systems. My goal is to integrate analytics and data science with business, with a particular focus on the people aspect. I believe understanding your workforce is as crucial as understanding your customers. Nothing drives business performance better than a culture of engaged employees.
 
  - 💡 **Thought Leaders I Follow and Their Views on People Analytics:**
 
