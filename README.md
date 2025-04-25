@@ -1,5 +1,5 @@
  - 👋 **Hi, I'm Maja.**
- - 👀 **I’m passionate about:** People Analytics & People Science.
+ - 👀 **I’m passionate about:** People(our behaviour), People Analytics & People Science.
  - 🌱 **Currently learning:** SQL (intermediate level) and exploring job evaluation methods.
  - 🎓 **Education:**
    * Postgraduate Diploma in Data Science
